@@ -120,6 +120,6 @@ Section headers in `follow-up-email-style.md` are load-bearing — keep them as-
 
 ## Built by
 
-[Miguel Altamirano](https://www.linkedin.com/in/miguel-altamirano/), founding AE at [Sluicebox](https://sluicebox.ai). Shipped in public.
+[Miguel Altamirano](https://www.linkedin.com/in/miguel-altamirano/), founding GTM at [Sluicebox](https://sluicebox.ai). Ex-SAP. Shipped in public.
 
 If this saves you 30 minutes a week, the goodwill is enough. Issues and PRs welcome.
