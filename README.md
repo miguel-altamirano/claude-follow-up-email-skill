@@ -20,12 +20,21 @@ Two skills, one workflow.
 
 ## Install
 
-### Claude Code
+### Claude Cowork — manual setup
 
-```bash
-/plugin marketplace add miguel-altamirano/claude-follow-up-email-skill
-/plugin install follow-up-email
-```
+Cowork's plugin UI doesn't support individual GitHub marketplaces yet. Install manually in 3 steps:
+
+**Step 1 — Add the trainer skill**
+1. Open Cowork → Customize → Skills → Your organization
+2. Create a new skill called `follow-up-email-trainer`
+3. Paste the contents of [`plugins/follow-up-email/skills/follow-up-email-trainer/SKILL.md`](plugins/follow-up-email/skills/follow-up-email-trainer/SKILL.md)
+
+**Step 2 — Add the executor skill**
+1. Create a second skill called `follow-up-email`
+2. Paste the contents of [`plugins/follow-up-email/skills/follow-up-email/SKILL.md`](plugins/follow-up-email/skills/follow-up-email/SKILL.md)
+
+**Step 3 — Run the trainer**
+In any Cowork session, say: `Train me on my follow-up email style`
 
 ### Claude Cowork
 
