@@ -7,8 +7,8 @@
     "email": "miguel@sluicebox.ai",
     "url": "https://github.com/miguel-altamirano"
   },
-  "homepage": "https://github.com/miguel-altamirano/claude-follow-up-email",
-  "repository": "https://github.com/miguel-altamirano/claude-follow-up-email",
+  "homepage": "https://github.com/miguel-altamirano/claude-follow-up-email-skill",
+  "repository": "https://github.com/miguel-altamirano/claude-follow-up-email-skill",
   "license": "MIT",
   "keywords": ["sales", "gtm", "email", "follow-up", "granola", "gmail", "customer-success"],
   "skills": "./skills/"

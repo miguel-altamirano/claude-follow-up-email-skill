@@ -23,14 +23,14 @@ Two skills, one workflow.
 ### Claude Code
 
 ```bash
-/plugin marketplace add miguel-altamirano/claude-follow-up-email
+/plugin marketplace add miguel-altamirano/claude-follow-up-email-skill
 /plugin install follow-up-email
 ```
 
 ### Claude Cowork
 
 1. Open **Customize** → **Plugins** → **Add marketplace**
-2. Paste: `miguel-altamirano/claude-follow-up-email`
+2. Paste: `miguel-altamirano/claude-follow-up-email-skill`
 3. Install the `follow-up-email` plugin from the marketplace browser
 
 ---
