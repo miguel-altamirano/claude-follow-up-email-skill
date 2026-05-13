@@ -22,6 +22,8 @@ Two skills, one workflow.
 /plugin marketplace add miguel-altamirano/claude-follow-up-email-skill
 /plugin install follow-up-email
 
+Claude Code says "SSH host key not in known_hosts"? Run ssh -T git@github.com in Terminal, type yes when prompted, then retry.
+
 ### Claude Cowork
 
 Cowork's plugin UI doesn't support individual GitHub marketplaces yet. Install manually in 3 steps:
