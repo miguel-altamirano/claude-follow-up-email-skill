@@ -2,7 +2,7 @@ Train Claude on your post-call follow-up email style once. Then draft new follow
 
 Works in **Claude Code** and **Claude Cowork**. Reads your calls from Granola, your past emails from Gmail. Drafts go to Gmail Drafts — nothing is sent without your approval.
 
-> *Add demo GIF here — 20-30 seconds showing `write followup` → draft in chat → save to Drafts.*
+<img width="613" height="464" alt="image" src="https://github.com/user-attachments/assets/5d7bfbc4-47fe-4b21-b3d6-fe0c31a9539b" />
 
 ---
 
