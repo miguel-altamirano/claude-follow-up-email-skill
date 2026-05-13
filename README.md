@@ -1,6 +1,3 @@
-Here's the full corrected README, ready to paste:
-markdown# Follow-up Email for Claude
-
 Train Claude on your post-call follow-up email style once. Then draft new follow-ups in your voice after every customer meeting.
 
 Works in **Claude Code** and **Claude Cowork**. Reads your calls from Granola, your past emails from Gmail. Drafts go to Gmail Drafts — nothing is sent without your approval.
