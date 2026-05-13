@@ -1,0 +1,12 @@
+# Never commit trained reference data — they contain private call transcripts and emails
+plugins/follow-up-email/skills/follow-up-email/references/follow-up-email-style.md
+plugins/follow-up-email/skills/follow-up-email/references/follow-up-email-dossier.md
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp

@@ -1,0 +1,17 @@
+{
+  "name": "miguel-altamirano-skills",
+  "description": "Skills for sales and customer-facing work in Claude. Built by a founding AE shipping in public.",
+  "owner": {
+    "name": "Miguel Altamirano",
+    "email": "miguel@sluicebox.ai"
+  },
+  "plugins": [
+    {
+      "name": "follow-up-email",
+      "description": "Train Claude on your post-call follow-up email style once, then draft new follow-ups in your voice after every meeting. Reads Granola transcripts and your prior Gmail follow-ups, writes drafts (never sends).",
+      "source": {
+        "path": "./plugins/follow-up-email"
+      }
+    }
+  ]
+}

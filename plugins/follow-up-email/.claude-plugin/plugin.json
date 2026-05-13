@@ -1,0 +1,15 @@
+{
+  "name": "follow-up-email",
+  "version": "0.1.0",
+  "description": "Train Claude on your post-call follow-up email style, then draft new follow-ups in your voice after every meeting. Bundles two skills: a one-time trainer that analyzes your past calls and emails, and an executor that drafts post-call emails on demand.",
+  "author": {
+    "name": "Miguel Altamirano",
+    "email": "miguel@sluicebox.ai",
+    "url": "https://github.com/miguel-altamirano"
+  },
+  "homepage": "https://github.com/miguel-altamirano/claude-follow-up-email",
+  "repository": "https://github.com/miguel-altamirano/claude-follow-up-email",
+  "license": "MIT",
+  "keywords": ["sales", "gtm", "email", "follow-up", "granola", "gmail", "customer-success"],
+  "skills": "./skills/"
+}
